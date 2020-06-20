@@ -1,1 +1,1 @@
-FROM gcr.io/google_containers/coredns-amd64:1.6.7
+FROM coredns/coredns:1.6.7
